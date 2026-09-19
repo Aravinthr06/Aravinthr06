@@ -26,8 +26,6 @@
 
 **Python • NumPy • Pandas • Matplotlib • Scikit-Learn**
 
-> Currently learning Deep Learning and neural network architectures.
-
 ---
 
 ### 🧩 LLM & Prompt Engineering
@@ -36,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
 
-**Prompt Engineering • LLM Workflows • RAG • Generative AI**
+**Prompt Engineering • LLM's Workflow • RAG • Generative AI**
 
 ---
 
