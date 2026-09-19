@@ -13,17 +13,27 @@
 - Always exploring modern technologies and improving my development skills.
 - **Fun Fact:** I build things just to understand them.
 
+---
+
 ## 🛠️ Technical Skills
 
 ### 🧠 AI / ML
 
-Python • NumPy • Pandas • Matplotlib 
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</p>
+
+**Python • NumPy • Pandas • Matplotlib • Scikit-Learn**
 
 ---
 
 ### 🤖 Deep Learning
 
-PyTorch • TensorFlow
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="55"/>
+</p>
+
+**PyTorch • TensorFlow**
 
 > Currently learning Deep Learning and neural network architectures.
 
@@ -31,19 +41,31 @@ PyTorch • TensorFlow
 
 ### 🧩 LLM & Prompt Engineering
 
-Prompt Engineering • LLM Workflows • RAG • Generative AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</p>
+
+**Prompt Engineering • LLM Workflows • RAG • Generative AI**
 
 ---
 
 ### ⚙️ Backend Development
 
-FastAPI • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django" height="55"/>
+</p>
+
+**FastAPI • REST APIs**
 
 ---
 
 ### 🗄️ Databases
 
-MySQL • PostgreSQL 
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="55"/>
+</p>
+
+**MySQL • PostgreSQL**
 
 ---
 
