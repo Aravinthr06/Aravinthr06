@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Aravinth Ravi
+AI/ML • IoT • Problem Solving
 
-<!--
-**Aravinthr06/Aravinthr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+Currently Working On
+What I Focus On
+Technical Skills
+Currently Learning
+End-to-End Systems
+Projects
+    ├── CuraTrack-V2 🔗
+    ├── Employee Management System 🔗
+    └── other projects 🔗
+GitHub Stats
+GitHub Streak
+GitHub Trophies
+What I'm Working Toward
+Connect With Me
