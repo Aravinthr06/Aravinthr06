@@ -14,26 +14,17 @@
 - **Fun Fact:** I build things just to understand them.
 
 ---
+---
 
 ## 🛠️ Technical Skills
 
 ### 🧠 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="55"/>
 </p>
 
 **Python • NumPy • Pandas • Matplotlib • Scikit-Learn**
-
----
-
-### 🤖 Deep Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="55"/>
-</p>
-
-**PyTorch • TensorFlow**
 
 > Currently learning Deep Learning and neural network architectures.
 
@@ -68,5 +59,9 @@
 **MySQL • PostgreSQL**
 
 ---
+
+
+
+
 
 ## Connect With Me
